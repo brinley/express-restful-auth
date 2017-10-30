@@ -28,7 +28,7 @@ to be present and check if the userID matches with the token.
 
 ## installation
 
-either put the package name, express-restufl-auth, into package.json, or type
+either put the package name, express-restful-auth, into package.json, or type
 the following command: 
     npm install express-restful-auth
 
